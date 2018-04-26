@@ -761,7 +761,7 @@ $(document).ready(function() {
     },{
       'icon': iconImage,
       'title': 'RVE Constanta',
-      'file': 'http://5.14.82.73:38633/stream.mp3'
+      'file': 'http://5.14.80.161:38633/strem.mp3'
     },
 	
 	
