@@ -761,7 +761,7 @@ $(document).ready(function() {
     },{
       'icon': iconImage,
       'title': 'RVE Constanta',
-      'file': 'http://5.14.80.161:38633/strem.mp3'
+      'file': 'http://rvect.go.ro:38633/stream/2/'
     },
 	
 	
