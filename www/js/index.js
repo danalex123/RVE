@@ -737,11 +737,11 @@ $(document).ready(function() {
     playList: [{
       'icon': "sigla-rve.jpg",
       'title': 'RVE Bucuresti',
-      'file': 'https://streamer.radio.co/sb94ce6fe2/listen'
+      'file': 'http://91.216.75.116:8618/stream'
     }, {
       'icon': iconImage,
       'title': 'RVE Cluj',
-      'file': 'http://rve128.rvecj.ro:8000/stream.mp3'
+      'file': 'http://89.36.154.3:8000/stream.mp3'
     }, {
       'icon': iconImage,
       'title': 'RVE Sibiu',
@@ -750,6 +750,7 @@ $(document).ready(function() {
       'icon': iconImage,
       'title': 'RVE Suceava',
       'file': 'http://94.75.227.133:7280/stream.mp3'
+	    
     }, {
       'icon': iconImage,
       'title': 'RVE Timisoara',
@@ -761,7 +762,7 @@ $(document).ready(function() {
     },{
       'icon': iconImage,
       'title': 'RVE Constanta',
-      'file': 'http://rvect.go.ro:38633/stream/2/'
+      'file': 'http://5.14.39.9:38633/stream/2/'
     },
 	
 	
