@@ -745,7 +745,8 @@ $(document).ready(function() {
     }, {
       'icon': iconImage,
       'title': 'RVE Sibiu',
-      'file': 'http://s5.radioboss.fm:8099/stream.mp3'
+      'file': 'https://c13.radioboss.fm:18286/stream'
+	    
     }, {
       'icon': iconImage,
       'title': 'RVE Suceava',
